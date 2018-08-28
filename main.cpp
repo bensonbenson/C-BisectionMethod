@@ -7,6 +7,7 @@
 //  Applies the bisection method to approximate sqrt(3) to the 10^-5 precision.
 
 #include <iostream>
+#include <limits>
 using namespace std;
 
 double e = 0.00001; // Epsilon, our error term
